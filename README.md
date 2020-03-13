@@ -1,9 +1,9 @@
 # ft_server_42
 
-### Notes - Notion
+#### Notes - Notion
 - https://www.notion.so/ft_server-ca620d93038d4e32a8905d0fd049fdb5
 
-### ft_server 42 subject
+#### ft_server 42 subject
 - https://cdn.intra.42.fr/pdf/pdf/9751/en.subject.pdf
 
 ----------------------------
