@@ -44,6 +44,7 @@
 
 #### Get Docker Engine - Community for Debian
 - https://hub.docker.com/editions/community/docker-ce-server-debian
+- https://docs.docker.com/install/linux/docker-ce/debian/
 
 #### Docker docs
 - https://docs.docker.com/machine/reference/env/
