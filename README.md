@@ -22,6 +22,9 @@
 #### How To Install WordPress with LEMP (Nginx, MariaDB and PHP) on Debian 10
 - https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-nginx-mariadb-and-php-on-debian-10
 
+#### How To Create a Self-Signed SSL Cert for Nginx on Debian 10
+- https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-debian-10
+
 ----------------------------
 
 ## Nginx
