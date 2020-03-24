@@ -11,7 +11,7 @@
 ## Tutorials 
 
 #### Dockerfile tutorial
-[x] https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/
+{x} https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/
 
 #### How To Install Linux, Nginx, MariaDB, PHP (LEMP stack) on Debian 10
 - https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mariadb-php-lemp-stack-on-debian-10
