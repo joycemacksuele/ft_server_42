@@ -27,6 +27,16 @@
 
 ----------------------------
 
+## SSL
+
+#### Creating a Self-Signed SSL Certificate
+- https://linuxize.com/post/creating-a-self-signed-ssl-certificate/
+
+#### Créer et Installer un certificat SSL sous NGinx
+- https://admin-serv.net/blog/670/creer-et-installer-un-certificat-ssl-sous-nginx/
+
+----------------------------
+
 ## Nginx
 
 #### Nginx documentation
