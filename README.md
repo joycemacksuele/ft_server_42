@@ -10,20 +10,21 @@
 
 ## Tutorials 
 
-#### Dockerfile tutorial
-- https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/
-
 #### How To Install Linux, Nginx, MariaDB, PHP (LEMP stack) on Debian 10
 - https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mariadb-php-lemp-stack-on-debian-10
 
-#### How To Install phpMyAdmin From Source on Debian 10
-- https://www.digitalocean.com/community/tutorials/how-to-install-phpmyadmin-from-source-debian-10
+----------------------------
 
-#### How To Install WordPress with LEMP (Nginx, MariaDB and PHP) on Debian 10
-- https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-nginx-mariadb-and-php-on-debian-10
+## Docker
 
-#### How To Create a Self-Signed SSL Cert for Nginx on Debian 10
-- https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-debian-10
+#### Dockerfile tutorial
+- https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/
+
+#### Get Docker Engine - Community for Debian
+- https://docs.docker.com/install/linux/docker-ce/debian/
+
+#### Docker docs
+- https://docs.docker.com/machine/reference/env/
 
 ----------------------------
 
@@ -34,6 +35,9 @@
 
 #### Créer et Installer un certificat SSL sous NGinx
 - https://admin-serv.net/blog/670/creer-et-installer-un-certificat-ssl-sous-nginx/
+
+#### How To Create a Self-Signed SSL Cert for Nginx on Debian 10
+- https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-debian-10
 
 ----------------------------
 
@@ -50,13 +54,17 @@
 
 ----------------------------
 
-## Docker
+## phpMyAdmin
 
-#### Get Docker Engine - Community for Debian
-- https://docs.docker.com/install/linux/docker-ce/debian/
+#### How To Install phpMyAdmin From Source on Debian 10
+- https://www.digitalocean.com/community/tutorials/how-to-install-phpmyadmin-from-source-debian-10
 
-#### Docker docs
-- https://docs.docker.com/machine/reference/env/
+----------------------------
+
+## WordPress
+
+#### How To Install WordPress with LEMP (Nginx, MariaDB and PHP) on Debian 10
+- https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-nginx-mariadb-and-php-on-debian-10
 
 ----------------------------
 
