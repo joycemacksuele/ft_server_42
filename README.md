@@ -56,6 +56,9 @@
 
 ## phpMyAdmin
 
+#### How To Install phpMyAdmin with Nginx on Debian 10
+- https://www.itzgeek.com/how-tos/linux/debian/how-to-install-phpmyadmin-with-nginx-on-debian-10.html
+
 #### How To Install phpMyAdmin From Source on Debian 10
 - https://www.digitalocean.com/community/tutorials/how-to-install-phpmyadmin-from-source-debian-10
 
