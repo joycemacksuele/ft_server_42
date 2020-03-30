@@ -6,6 +6,9 @@
 #### ft_server 42 subject
 - https://cdn.intra.42.fr/pdf/pdf/9751/en.subject.pdf
 
+#### Autoindex
+- http://nginx.org/en/docs/http/ngx_http_autoindex_module.html
+
 ----------------------------
 
 ## Tutorials 
