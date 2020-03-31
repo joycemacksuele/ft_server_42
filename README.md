@@ -16,6 +16,8 @@ docker run -it -p 80:80 -p 443:443 ft_server
 ######      -d = detach = runs in the background
 ######      -p = publish
 
+----------------------------
+
 #### Notes - Notion
 - https://www.notion.so/ft_server-ca620d93038d4e32a8905d0fd049fdb5
 
