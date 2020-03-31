@@ -1,5 +1,17 @@
 # ft_server_42
 
+### Run those 2 commands whe everything is ready
+
+### to build your image from your Dockerfile first
+##### docker build -t jfreitas/ft_server .
+## -t (tag) to specify the name of the image. Being the first part your name/then the image name
+## the . to specify the directory where docker build should be looking for a Dockerfile
+
+### to run your image, creating you container from it
+##### docker run -it -p 80:80 -p 443:443 ft_server
+## -d = detach = runs in the background
+## -p = publish
+
 #### Notes - Notion
 - https://www.notion.so/ft_server-ca620d93038d4e32a8905d0fd049fdb5
 
