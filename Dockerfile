@@ -54,4 +54,4 @@ COPY srcs/wp-config.php /var/www/localhost/wordpress/
 COPY srcs/init.sh /tmp/
 
 # CMD - specify what component is to be run by your image
-CMD bash /tmp/init.sh
+CMD bash /tmp/init.sh && tail -f /dev/null
