@@ -153,4 +153,5 @@ $cfg['SaveDir'] = '';
  * You can find more configuration options in the documentation
  * in the doc/ folder or at <https://docs.phpmyadmin.net/>.
  */
-//$cfg['TempDir'] = '/var/www/localhost/phpmyadmin/tmp';
+$cfg['TempDir'] = '/var/www/localhost/phpmyadmin/tmp';
+// This will configure phpMyAdmin to use the /var/lib/phpmyadmin/tmp directory you created earlier as its temporary directory. phpMyAdmin will use this temporary directory as a templates cache which allows for faster page loading
