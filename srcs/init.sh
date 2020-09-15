@@ -1,3 +1,4 @@
+#!/bin/bash
 # MySQL
 service mysql start
 echo "CREATE DATABASE wordpress;" | mysql -u root
