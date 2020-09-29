@@ -12,7 +12,8 @@ RUN apt-get -y install nginx
 # Create the root web directory for localhost
 RUN mkdir /var/www/localhost
 
-# Set www-data (the Linux user profile that web servers use for normal operations) as the owner of what in inside www
+# Set www-data (the Linux Ubuntu user and group profile that web servers use for normal operations) as the owner of
+# what in inside www so the web server (Nginx in this case) will have access to it (not only root)
 # That is part of the configuration of Nginx to use PHP
 RUN chown -R www-data:www-data /var/www/*
 
