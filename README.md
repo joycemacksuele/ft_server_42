@@ -4,17 +4,20 @@
 
 ### To build your image from your Dockerfile first:
 ```
-docker build -t jfreitas/ft_server .
+docker build -t <path to ft_server dir> .
 ```
 ######      -t (tag) to specify the name of the image. Being the first part your name/then the image name
-######      the . to specify the directory where docker build should be looking for a Dockerfile
+######      . (dot) to specify the directory where docker build should be looking for a Dockerfile
 
 ### To run your image, creating you container from it:
 ```
 docker run -it -p 80:80 -p 443:443 ft_server
 ```
-######      -d = detach = runs in the background
-######      -p = publish
+######      -d (detach) runs in the background
+######      -p (publish) publish a container's port(s) to the host
+For interactive processes (like a shell), you must use -i -t together in order to allocate a tty for the container process. `-i` `-t` is often written `-it`.
+######      -i (interactive) keep STDIN open even if not attached
+######      -t (tty) allocate a pseudo-tty
 
 ----------------------------
 
