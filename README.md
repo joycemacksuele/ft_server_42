@@ -18,7 +18,7 @@ docker run -it -p 80:80 -p 443:443 ft_server
 For interactive processes (like a shell), you must use -i -t together in order to allocate a tty for the container process.
 `-i` `-t` is often written `-it`.
 ######      -i (interactive) keep STDIN open even if not attached
-######      -t (tty) allocate a pseudo-tty
+######      -t (tty) allocate a pseudo-tty (pseudo-teletype (emulated in software))
 
 ----------------------------
 
